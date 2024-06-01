@@ -51,7 +51,7 @@ class COCOEvalCap:
             (Cider(), "CIDEr"),
             (CiderR(), "CIDEr-R"),
             (self.Spice, "SPICE"),
-            (WMD(),   "WMD"),
+            # (WMD(),   "WMD"),
         ]
 
         # =================================================

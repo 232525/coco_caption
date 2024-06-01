@@ -11,7 +11,8 @@ import numpy as np
 import pdb
 import math
 
-from pycocoevalcap.ciderR import utils
+# from pycocoevalcap.ciderR import utils
+from . import utils
 
 
 def precook(s, n=4, out=False):
